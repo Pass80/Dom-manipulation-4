@@ -1,17 +1,1 @@
-button {
-    display: inline-block;
-    width: 7rem;
-    height: 2.5rem;
-    margin-right: 1rem;
-    margin-bottom: 3rem;
-    font-weight: bold;
-    color: #fff;
-    background-color: #000;
-    border: none;
-}
-button:hover {
-    cursor: pointer;
-}
-p {
-    font-size: 2rem;
-}
+
